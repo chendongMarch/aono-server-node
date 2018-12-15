@@ -1,12 +1,7 @@
-# aono-server-node
 
-aono-server-node
+# 奥诺官网服务端
 
-## QuickStart
-
-<!-- add docs here for user -->
-
-see [egg docs][egg] for more detail.
+[egg doc](https://eggjs.org/zh-cn/tutorials/index.html)
 
 ### Development
 
@@ -28,10 +23,6 @@ $ npm stop
 - Use `npm run lint` to check code style.
 - Use `npm test` to run unit test.
 - Use `npm run autod` to auto detect dependencies upgrade, see [autod](https://www.npmjs.com/package/autod) for more detail.
-
-
-[egg]: https://eggjs.org
-
 
 
 # CentOs 7.x 部署
